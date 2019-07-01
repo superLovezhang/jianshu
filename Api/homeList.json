@@ -1,0 +1,12 @@
+{
+    "success": "ok",
+    "data": {
+        "list":[
+            {"title": "蚂蚁金服核心技术：百亿特征实时推荐算法揭秘", "content": "小叽导读：文章提出一整套创新算法与架构，通过对TensorFlow底层的弹性改造，解决了在线学习的弹性特征伸缩和稳定性问题，并以GroupLas...", "img": "https://upload-images.jianshu.io/upload_images/16158392-6eafb26a626674ca.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240", "date": "15.8", "company": "阿里云云栖社区", "comment": 0, "attention":118},
+            {"title": "蚂蚁金服核心技术：百亿特征实时推荐算法揭秘", "content": "小叽导读：文章提出一整套创新算法与架构，通过对TensorFlow底层的弹性改造，解决了在线学习的弹性特征伸缩和稳定性问题，并以GroupLas...", "img": "https://upload-images.jianshu.io/upload_images/16158392-6eafb26a626674ca.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240", "date": "15.8", "company": "阿里云云栖社区", "comment": 0, "attention":118},
+            {"title": "蚂蚁金服核心技术：百亿特征实时推荐算法揭秘", "content": "小叽导读：文章提出一整套创新算法与架构，通过对TensorFlow底层的弹性改造，解决了在线学习的弹性特征伸缩和稳定性问题，并以GroupLas...", "img": "https://upload-images.jianshu.io/upload_images/16158392-6eafb26a626674ca.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240", "date": "15.8", "company": "阿里云云栖社区", "comment": 0, "attention":118},
+            {"title": "蚂蚁金服核心技术：百亿特征实时推荐算法揭秘", "content": "小叽导读：文章提出一整套创新算法与架构，通过对TensorFlow底层的弹性改造，解决了在线学习的弹性特征伸缩和稳定性问题，并以GroupLas...", "img": "https://upload-images.jianshu.io/upload_images/16158392-6eafb26a626674ca.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240", "date": "15.8", "company": "阿里云云栖社区", "comment": 0, "attention":118},
+            {"title": "蚂蚁金服核心技术：百亿特征实时推荐算法揭秘", "content": "小叽导读：文章提出一整套创新算法与架构，通过对TensorFlow底层的弹性改造，解决了在线学习的弹性特征伸缩和稳定性问题，并以GroupLas...", "img": "https://upload-images.jianshu.io/upload_images/16158392-6eafb26a626674ca.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240", "date": "15.8", "company": "阿里云云栖社区", "comment": 0, "attention":118}
+        ]
+    }
+}
